@@ -1,5 +1,5 @@
 # Hey! 👋
-I'm Declan Elkerton, an undergraduate software developer from Australia.
+I'm Declan Elkerton, a graduate software developer from Australia.
 
 Check out the pinned repositiories on my profile to see some of my personal and university projects.
 
